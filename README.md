@@ -1,8 +1,6 @@
 # Windows 11 Activation
 
-[![Readme](https://img.shields.io/badge/README_IN-ENGLISH-blue?logo=readme)](README.md)
-
-> This repository contains a way that can activate Windows 11 in a few seconds. Both methodes is compatible with home, home N, Home single lang, Home country specific, professional, education and enterprise edition of Windows.
+> This repository contains a way that can activate Windows 11 in a few seconds. Both methodes is compatible with home, home N, Home single lang, Home country specific, professional, education and enterprise edition of Windows 11.
 
 ## Method 1 (recommended)  
 ### Instant Windows activation using (PowerShell)  
@@ -57,7 +55,7 @@ Now paste it (with right-click) and hit the enter key. In the newly opened windo
 your Windows has been activated.  
 now you can hit the enter key to exit the CMD and close PowerShell and check windows Activation menu [^3]
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Method 2  
 ### Instant Windows activation using CMD (Command Prompt)
@@ -194,9 +192,9 @@ your Windows is activated successfully.
 
 [^1]: [10 Ways to run PowerShell in windows](https://www.google.com/amp/s/www.minitool.com/news/open-windows-11-powershell.html%3famp)  
 
-[^2]: Another easiest way to run PowerShell: **Right-click** on your Start menu to trigger the quick link menu and select **Windows Terminal (admin)** at win11 or **Windows powershell (admin)** at win 10 in the menu list.
-[^3]: To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under **Edition.**, You can also follow the steps of method 2 by **copy pasting** them. copy the commands and then hit the **Right-click** in the **cmd or powershell** to paste them.
+[^2]: Another easiest way to run PowerShell: **Right-click** on your Start menu to trigger the quick link menu and select **Windows Terminal (admin)** at win 11 or **Windows powershell (admin)** at win 10 in the menu list.
+[^3]: To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows 11 version can be seen in the second section under **Edition.**, You can also follow the steps of method 2 by **copy pasting** them. copy the commands and then hit the **Right-click** in the **cmd or powershell** to paste them.
 [^4]: Home Single language version.
 [^5]: Home Country Specific version.
-[^6]: To see windows activation status you must to go:  
+[^6]: To see windows 11 activation status you must to go:  
 ***Settings → Update & Security → activation menu.***
