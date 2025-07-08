@@ -177,9 +177,8 @@ And Now check the activation status again [^6].
 your Windows is activated successfully.
 
 <br>
-#### Reference :
-<br>
- <a href="https://www.reddit.com/r/Compsupport/comments/1lgsp7l/where_to_buy_windows_11_pro_key/">Windows 11 pro activation key</a>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -194,5 +193,9 @@ your Windows is activated successfully.
 [^3]: To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows 11 version can be seen in the second section under **Edition.**, You can also follow the steps of method 2 by **copy pasting** them. copy the commands and then hit the **Right-click** in the **cmd or powershell** to paste them.
 [^4]: Home Single language version.
 [^5]: Home Country Specific version.
+
+Reference :
+
+ <a href="https://www.reddit.com/r/Compsupport/comments/1lgsp7l/where_to_buy_windows_11_pro_key/">Windows 11 pro activation key</a>
 [^6]: To see windows 11 activation status you must to go:  
 ***Settings → Update & Security → activation menu.***
