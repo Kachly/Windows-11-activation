@@ -196,6 +196,6 @@ your Windows is activated successfully.
 
 Reference :
 
- <a href="https://www.reddit.com/r/Compsupport/comments/1lgsp7l/where_to_buy_windows_11_pro_key/">Windows 11 pro activation key</a>
+ <a href="https://www.reddit.com/r/avast/comments/1myiqae/where_i_can_buy_a_legit_windows_11_pro_key/">Windows 11 pro activation key</a>
 [^6]: To see windows 11 activation status you must to go:  
 ***Settings → Update & Security → activation menu.***
